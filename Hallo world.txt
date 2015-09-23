@@ -1,3 +1,4 @@
 print ("Hallo World")
 print ("Hallo evrybody")
 print ("Hallo")
+prtint ("Hallo my dear friend")
