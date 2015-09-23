@@ -1,1 +1,2 @@
 print("Goodbay world")
+print("goodbay")
