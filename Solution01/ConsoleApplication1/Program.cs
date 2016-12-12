@@ -13,6 +13,7 @@ namespace ConsoleApplication1
         {
             var test = new Test();
             test.DoWork();
+            int aa = 20;
         }
     }
 }
